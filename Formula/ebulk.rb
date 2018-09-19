@@ -1,8 +1,8 @@
 class Ebulk < Formula
   desc "Ingestion/download of large dataset into Wendelin-IA-Telecom platform"
   homepage "https://lab.nexedi.com/rporchetto/ebulk"
-  url "https://lab.nexedi.com/rporchetto/ebulk/repository/archive.tar.gz?ref=v1.0.0"
-  sha256 "0f04ba5e18ac6008d4376c4a14ce319ed3926afa1b22cc641389dad2442f84bf"
+  url "https://lab.nexedi.com/rporchetto/ebulk/repository/archive.tar.gz?ref=v1.0.4"
+  sha256 "61467f085134008a0e7259833198a9efee84633ea3b35f56fb433bbe986b0939"
 
   bottle :unneeded
 
